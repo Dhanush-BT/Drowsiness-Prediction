@@ -1,0 +1,6 @@
+.DS_Store
+*.mp4
+*.npy
+*.csv
+datasets/
+UTA-RLDD Face Cropped Video/
