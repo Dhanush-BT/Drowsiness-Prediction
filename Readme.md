@@ -1,4 +1,3 @@
-Here is a **complete GitHub README.md** based directly on your code, pipeline, and the **91% accuracy at 50 epochs**. You can copy and paste this entire file into your repository.
 
 ---
 
